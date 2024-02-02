@@ -26,7 +26,9 @@
 
 - While embedded insurance may have higher upfront costs due to technology, the personalized rates based on driving behavior can potentially lead to savings for some drivers.
 
---
+## ML Model:  
+- [CNN Model for image detection](https://colab.research.google.com/drive/1B6pfyGsXeBPT55ZQ-K8G3pnk4mDPwy9E?usp=sharing)
+***
 ![image](https://github.com/dipashachaturvedii/deep-blue/assets/97289683/dbb5dde8-c552-431e-9e86-a3f7b0ee7e50)
 ## Flow Chart:
 ![image](https://github.com/dipashachaturvedii/deep-blue/assets/97289683/b7e2de83-81da-42ad-abd8-ffef1ec34963)
